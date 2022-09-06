@@ -1,6 +1,7 @@
 export const Theme = {
   spacing: {
     2: 6,
+    4: 12,
   },
   colors: {
     white: '#FFFFFF',
@@ -9,7 +10,7 @@ export const Theme = {
       200: '#FFFFFF',
       300: '#FFFFFF',
       400: '#FFFFFF',
-      500: '#FFFFFF',
+      500: '#3E3E3E',
       600: '#FFFFFF',
       700: '#FFFFFF',
       800: '#FFFFFF',
